@@ -1,3 +1,3 @@
 # nirbhaysharma-demo
 This is my second Git repository
-Author - Aman sharma
+Author - Aman (joshi)
